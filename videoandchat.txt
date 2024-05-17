@@ -36,10 +36,10 @@
                 "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
                 "native_id": "ca-app-pub-3940256099942544/2247696110",
                 "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-                "facebook_banner_id": "",
-                "facebook_interstitial_id": "12341234",
+                "facebook_banner_id": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+                "facebook_interstitial_id": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
                 "facebook_rewarded_id": "",
-                "facebook_native_id": "12341234",
+                "facebook_native_id": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
                 "qureka_id": "",
                 "created_at": "2024-05-17T06:12:21.000000Z",
                 "updated_at": "2024-05-17T06:12:21.000000Z"

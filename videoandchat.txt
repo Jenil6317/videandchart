@@ -7,7 +7,7 @@
             "id": 24,
             "name": "Virtual Dating App Video Call - Jenil",
             "secret_key": "026a6e686abfb1b4c90f97a45cf665ef",
-            "is_facebook": 0,
+            "is_facebook": 1,
             "is_adx": 0,
             "is_admob": 0,
             "status": 1,
